@@ -8,8 +8,8 @@ public class Hooks {
     public void beforeTest(){
         commonFunctions.openBrowser();
     }
-     @After
-    public void afterTest(){
-        commonFunctions.closeBrowser();
-    }
+    // @After
+    //public void afterTest(){
+        //commonFunctions.closeBrowser();
+    //}
 }
