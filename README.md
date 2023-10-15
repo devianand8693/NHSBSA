@@ -29,7 +29,7 @@ Framework Structure:
 ----------------------
 
 
-- Tests -
+- Tests -EligibilityCheckerSteps.java
 
 
 Directories:
